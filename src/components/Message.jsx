@@ -5,12 +5,12 @@ const style = {
     sent: `bg-[#395dff] text-white flex-row-reverse text-end float-right rounded-bl-full`,
     received: `bg-[#e5e5ea] text-black float-left rounded-br-full`,
   };
-const Message = () => {
+const Message = ({message}) => {
   return (
     <div>
         <div className={style.message}>
             <p className={style.name}>Dave</p>
-            <p>Message</p>
+            <p>{message.text}</p>
         </div>
     </div>
   )
