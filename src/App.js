@@ -16,8 +16,7 @@ function App() {
       <section className={style.sectionContainer}>
         {/* Navbar */}
         <Navbar/>
-        {/* Chat component */}
-        <Chat/>
+        {user ? <Chat user={user}/> : null}
       </section>
     </div>
   );
