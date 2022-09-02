@@ -4,12 +4,9 @@
 
 
 ## Features
-You can create your account and login.
+You can create your account and login with Google Auth.
 
-You can add your favourite movies to a list in the account page.
-
-This project consume The Movie Database API for movies images and info.
-
+You can chat with people connected in real time.
 
 ## Tecnologies
 
