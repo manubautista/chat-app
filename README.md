@@ -1,5 +1,6 @@
 # Site Deployed on: [https://netflix-by-mb.netlify.app/](https://chat-mb.netlify.app/)
 # Preview 
+![ca](https://user-images.githubusercontent.com/91494874/188216899-19244984-4427-4e8d-bd42-7272ba3f3bc0.png)
 
 
 ## Features
